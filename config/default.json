@@ -1,0 +1,8 @@
+{
+      "port":8890,
+      "dbHost":"localhost",
+      "dbUser":"root",
+      "dbPassword":"root",
+      "dbDatabase":"rocked-staging",
+      "ssl": false
+}
